@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color:#33ff33;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -126,8 +126,8 @@ img {
   background: $lightGray;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: #33ff33;
+  background: #33ff33;
 }
 
 // Nicolas Gallagher's micro clearfix hack

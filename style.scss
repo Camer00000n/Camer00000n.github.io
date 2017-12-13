@@ -23,7 +23,11 @@ body {
   color: #00ccff;
 }
 .container {
-  margin: 0 auto;
+  table, th, td {
+   border: 1px solid black;
+}
+Try it Yourself »
+margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
